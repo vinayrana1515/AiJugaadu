@@ -1,0 +1,4 @@
+﻿Flask==2.2.3
+Flask-Cors==3.0.10  # To allow cross-origin requests from React
+Flask-SQLAlchemy==3.0.0
+psycopg2-binary==2.9.6  # PostgreSQL driverv
