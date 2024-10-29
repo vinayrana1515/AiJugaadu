@@ -1,6 +1,6 @@
 ## FRONTEND WEBSITE 
 
-### go to fronted folder directory
+### go to frontend folder directory
 ### open terminal 
 ### npm install
 ### npm start
